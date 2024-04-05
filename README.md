@@ -1,4 +1,6 @@
 # Demo
-This is my first repository
+This is my first regipository
 <br>
-Auther-Juhee Katira(Narendrabahi)
+Auther-Juhee Katira
+
+jgjgjhg
